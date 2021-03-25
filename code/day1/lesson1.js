@@ -1,4 +1,8 @@
-function sum(a, b) {
-  return a + b;
-}
-export default sum
+export default (str) => {
+  return str
+    .split(' ')
+    .map((item) => {
+      return item.split('').reverse().join('');
+    })
+    .join(' ');
+};
