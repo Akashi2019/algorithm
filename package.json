@@ -1,0 +1,27 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "算法练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akashi2019/algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akashi2019/algorithm/issues"
+  },
+  "homepage": "https://github.com/Akashi2019/algorithm#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^26.6.3",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^26.6.3",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
