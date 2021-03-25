@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/Akashi2019/algorithm#readme",
   "devDependencies": {
-    "babel-core": "^6.26.3",
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.12",
     "babel-jest": "^26.6.3",
-    "babel-preset-env": "^1.7.0",
     "jest": "^26.6.3",
     "regenerator-runtime": "^0.13.7"
   }

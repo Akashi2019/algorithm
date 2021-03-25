@@ -5,7 +5,7 @@
 
 ```js
 npm install jest --save-dev
-npm install babel-jest babel-core babel-preset-env regenerator-runtime -D
+npm install babel-jest @babel/core @babel/preset-env regenerator-runtime -D
 ```
 
 编辑package.json
