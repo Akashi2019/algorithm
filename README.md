@@ -22,7 +22,7 @@ npm install babel-jest @babel/core @babel/preset-env regenerator-runtime -D
 
 ```json
 {
-  "presets": ["env"]
+  "presets": ["@babel/preset-env"]
 }
 ```
 
